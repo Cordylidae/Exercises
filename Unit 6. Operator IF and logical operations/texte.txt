@@ -1,0 +1,2 @@
+ifstream fromFile; 
+fromFile.open("texte.txt");
